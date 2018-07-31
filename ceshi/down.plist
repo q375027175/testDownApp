@@ -11,39 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>你的服务器ipa下载地址</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>
-			你的服务器下载时URL图片 2倍图
-			</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>
-			你的服务器下载时的图片地址
-			</string>
+					<string>http://www.xinlidamanguan.com/xl.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>标识</string>
+				<string>juge.com.xldmg</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>oa_app</string>
+				<string>鑫利大满贯</string>
 			</dict>
 		</dict>
 	</array>
